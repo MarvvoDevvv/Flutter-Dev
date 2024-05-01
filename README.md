@@ -28,5 +28,5 @@ For Step By Step Guide Follow Video Tutorials:
 - [Transparent Image](https://pub.dev/packages/transparent_image)
 <br><br>
 
-Feel Free to copy the code and use it.<br><br>
-Don't forget to star the repo and like the video :)
+
+
